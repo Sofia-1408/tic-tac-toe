@@ -1,10 +1,3 @@
-/**
- * Names & Student Numbers:
- * 1. Akinwunmi Eludoyin – 101567797
- * 2. Blossom Babalola – 101606071
- * 3. Sofia Janik – 101573681
- * */
-
 public class AI {
     //lets the class use methods from Board.java
     private Board boardHelper;
